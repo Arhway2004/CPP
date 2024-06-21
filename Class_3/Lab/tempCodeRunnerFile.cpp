@@ -1,0 +1,1 @@
+enter != "N" && enter !="n"
